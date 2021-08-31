@@ -1,7 +1,7 @@
 # Cloth/Rope sim
 
 #### Video
-https://i.imgur.com/bBy2y8W.mp4
+![Gif](https://github.com/raybritton/cloth-sim/blob/master/.github/cloth_sim.gif?raw=true)
 
 ## Usage
 
