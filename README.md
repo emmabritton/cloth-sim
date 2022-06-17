@@ -5,6 +5,7 @@
 
 ## Usage
 
+* Space - Toggle simulation execution
 * Left click - Add point
 * Right click - Lock point
 * Left click + shift - Delete point
